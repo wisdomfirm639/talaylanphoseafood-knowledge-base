@@ -1,0 +1,32 @@
+[
+  {
+    "name_th": "กุ้งเผา",
+    "name_en": "Grilled Prawns",
+    "description": "กุ้งสดเนื้อแน่นย่างไฟพอดี เสิร์ฟพร้อมน้ำจิ้มซีฟู้ดรสจัดจ้าน",
+    "recommended": true
+  },
+  {
+    "name_th": "ปลากะพงทอดน้ำปลา",
+    "name_en": "Deep-fried Snapper with Fish Sauce",
+    "description": "ปลากะพงสดทอดกรอบนอกนุ่มใน ราดซอสน้ำปลาปรุงรส",
+    "recommended": true
+  },
+  {
+    "name_th": "หมึกผัดน้ำดำ",
+    "name_en": "Stir-fried Squid in Black Ink Soup",
+    "description": "หมึกสดผัดกับน้ำหมึกรสชาติเข้มข้น หวานเค็มกลมกล่อม",
+    "recommended": true
+  },
+  {
+    "name_th": "ปูม้าผัดผงกะหรี่",
+    "name_en": "Stir-fried Blue Crab with Curry Powder",
+    "description": "ปูม้าสดเนื้อหวานผัดกับเครื่องแกงกะหรี่หอมกรุ่น",
+    "recommended": true
+  },
+  {
+    "name_th": "เมนูเริ่มต้นหลักสิบบาท",
+    "name_en": "Dishes starting at double-digit prices",
+    "description": "ทางร้านมีหลากหลายเมนูราคาประหยัดที่เริ่มต้นเพียงหลักสิบบาท",
+    "isSpecialOffer": true
+  }
+]
